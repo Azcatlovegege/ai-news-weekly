@@ -1,1 +1,5 @@
-
+.cat-ai        { background: rgba(52,211,153,.15);  color: #34d399; }
+.cat-竞赛      { background: rgba(251,191,36,.15);   color: #fbbf24; }
+.cat-文学      { background: rgba(244,114,182,.15);  color: #f472b6; }
+.cat-科技      { background: rgba(129,140,248,.15);  color: #818cf8; }
+.cat-中国航天  { background: rgba(56,189,248,.15);   color: #38bdf8; }
