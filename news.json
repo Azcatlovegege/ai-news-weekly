@@ -1,5 +1,22 @@
-.cat-ai        { background: rgba(52,211,153,.15);  color: #34d399; }
-.cat-竞赛      { background: rgba(251,191,36,.15);   color: #fbbf24; }
-.cat-文学      { background: rgba(244,114,182,.15);  color: #f472b6; }
-.cat-科技      { background: rgba(129,140,248,.15);  color: #818cf8; }
-.cat-中国航天  { background: rgba(56,189,248,.15);   color: #38bdf8; }
+{
+  "updated": "2026-04-25",
+  "week": "2026年第17周（4月20日 - 4月25日）",
+  "news": [
+    {
+      "id": 1,
+      "category": "AI",
+      "title": "GPT-5正式发布，多模态推理能力大幅跃升",
+      "summary": "OpenAI于本周正式推出GPT-5，在数学推理、代码生成与多模态理解三大维度实现历史性突破。新模型在MMLU基准测试中得分超越人类专家水平，并支持实时语音与图像交互。业界人士称其为"大语言模型进入强推理时代"的标志性节点。",
+      "source": "OpenAI官方博客",
+      "date": "2026-04-22",
+      "url": "https://openai.com/index/gpt-5",
+      "likes": 24800
+    },
+    {
+      "id": 2,
+      "category": "AI",
+      "title": "谷歌DeepMind发布AlphaFold 3：蛋白质与DNA交互预测精度再破纪录",
+      "summary": "DeepMind本周发布AlphaFold 3，将预测能力从单一蛋白质扩展到蛋白质与DNA、RNA及小分子的复合结构。研究人员表示，这一突破将显著加速新型抗生素与癌症靶向药物的研发进程，全球医学界为之振奋。",
+      "source": "Nature",
+      "date": "2026-04-23",
+      "url": "https://www.nature.com/articles/s41586
